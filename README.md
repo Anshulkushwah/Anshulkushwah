@@ -7,7 +7,7 @@
 
 - 🔭 Currently Working in initial age startup [@ChannelBlend](https://briskk.one/)
 
-- 🌱 Currently working Tech **React && Elixir**
+- 🌱 Currently working Tech **Reactjs && Nextjs**
 
 - 👨‍💻 I was worked in [@NTT](https://www.nttdata.com/global/en/)
 
